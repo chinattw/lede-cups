@@ -3,7 +3,7 @@
 #
 # This is free software, licensed under the GNU General Public License v2.
 # See /LICENSE for more information.
-#
+# 修改版本为2.0.3,否则openwrt编译不通过
 
 include $(TOPDIR)/rules.mk
 
